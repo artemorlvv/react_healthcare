@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react_healthcare/static/css/main.1fae304a.css",
+    "main.js": "/react_healthcare/static/js/main.ad8614a9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react_healthcare/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo_big.svg": "/react_healthcare/static/media/logo_big.4d676118758564a70a74e55bc61dee82.svg",
+    "static/media/logo_small.svg": "/react_healthcare/static/media/logo_small.7ca57e6fa2d50c3efcef8caf3950aa80.svg",
+    "static/media/card_pat.svg": "/react_healthcare/static/media/card_pat.28a8276c40e10ef4089976b8822d10e3.svg",
+    "static/media/doctors.svg": "/react_healthcare/static/media/doctors.d219bce4031e54241a1c3d8091c0e50c.svg",
+    "static/media/depart.svg": "/react_healthcare/static/media/depart.f6bbe17d83348d819221214bda0041c3.svg",
+    "static/media/appoint.svg": "/react_healthcare/static/media/appoint.f89c181eb4ced366c3e77d7ca1f0ecdc.svg",
+    "static/media/card_hospital.svg": "/react_healthcare/static/media/card_hospital.784eb32f1e5ec5a33efc7a5dd624025e.svg",
+    "static/media/card_oper.svg": "/react_healthcare/static/media/card_oper.24a99ae64cb552c3cc7e2c79796e2a97.svg",
+    "static/media/change_btn.svg": "/react_healthcare/static/media/change_btn.25666e28d84a52be26c412ccdcbd5844.svg",
+    "static/media/card_app.svg": "/react_healthcare/static/media/card_app.f28304f82c72af804cb97f275004ec42.svg",
+    "static/media/qa.svg": "/react_healthcare/static/media/qa.726f475a3661af207b2cdb45ee44f726.svg",
+    "static/media/notif_bell.svg": "/react_healthcare/static/media/notif_bell.324fa48d4b9c2dd509a22ac46231010a.svg",
+    "static/media/patients.svg": "/react_healthcare/static/media/patients.e299d05d1433f0e1455dff85e86c1a7e.svg",
+    "static/media/delete_btn.svg": "/react_healthcare/static/media/delete_btn.bdb5cfe344d0c15f046736c6aa6c4def.svg",
+    "static/media/search.svg": "/react_healthcare/static/media/search.a2b3cd55b5217d9c6ed5.svg",
+    "index.html": "/react_healthcare/index.html",
+    "static/media/pay.svg": "/react_healthcare/static/media/pay.8674c546e17501b4af2f3346cad28308.svg",
+    "static/media/dashboard.svg": "/react_healthcare/static/media/dashboard.3b025986f6fa59f02c3d0789f79056ca.svg",
+    "static/media/notif_circle.svg": "/react_healthcare/static/media/notif_circle.315bf041a322941b23c4162efa80ede3.svg",
+    "main.1fae304a.css.map": "/react_healthcare/static/css/main.1fae304a.css.map",
+    "main.ad8614a9.js.map": "/react_healthcare/static/js/main.ad8614a9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react_healthcare/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fae304a.css",
+    "static/js/main.ad8614a9.js"
+  ]
+}
