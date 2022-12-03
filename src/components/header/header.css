@@ -1,0 +1,12 @@
+#main_header {
+    display: flex;
+    height: 64px;
+    justify-content: space-between;
+}
+
+#main_header-right {
+    display: flex;
+    height: min-content;
+    align-items: center;
+    gap: 20px;
+}

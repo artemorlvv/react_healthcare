@@ -1,0 +1,15 @@
+#input {
+    width: 310px;
+    height: 40px;
+    padding-left: 42px;
+    background-color: white;
+    background: url("../../images/search.svg") no-repeat 16px center;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1px;
+    border-radius: 100px;
+    border: none;
+}

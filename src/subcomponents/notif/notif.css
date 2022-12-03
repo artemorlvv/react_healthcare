@@ -1,0 +1,35 @@
+#notif {
+    position: relative;
+    height: 100%;
+}
+
+#bell,
+#notif_circle {
+    user-select: none;
+}
+
+#circle {
+    width: 16px;
+    position: absolute;
+    top: -5px;
+    right: -6px;
+}
+
+#notif_text {
+    font-family: 'Lato';
+    position: absolute;
+    text-align: center;
+    top: -3.4px;
+    right: -1px;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+
+}
+
+#notif_circle {
+    height: 100%;
+    width: 100%;
+}

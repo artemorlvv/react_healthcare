@@ -1,0 +1,10 @@
+#profile_pic {
+    width: 46px;
+    height: 46px;
+    /* border: 3px solid rgba(194, 154, 154, 0.637); */
+    background-color: rgba(194, 154, 154, 0.637);
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

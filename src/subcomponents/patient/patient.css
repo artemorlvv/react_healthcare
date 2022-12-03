@@ -1,0 +1,70 @@
+#patient {
+    display: flex;
+    height: 56px;
+    border-top: 1px solid #E8E8E8;
+    align-items: center;
+}
+
+#name {
+    width: 20%;
+    display: flex;
+    align-items: center;
+    padding-left: 24px;
+}
+
+.patient_text {
+    padding-left: 24px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.1px;
+    color: #52575C;
+}
+
+.patient_name {
+    margin-left: 12px;
+    padding: 0;
+}
+
+#buttons {
+    /* flex-grow: 1; */
+    display: flex;
+    width: 6%;
+    gap: 30%;
+}
+
+#btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 8px;
+}
+
+#btn:hover {
+    background-color: #e7e7e7;
+    cursor: pointer;
+}
+
+#email {
+    width: 18%;
+}
+
+#date {
+    width: 10%;
+}
+
+#visit {
+    width: 10%;
+}
+
+#doctor {
+    width: 12%;
+}
+
+#conditions {
+    width: 12%;
+}

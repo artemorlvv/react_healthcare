@@ -1,0 +1,63 @@
+#Appoint {
+    background: #FFFFFF;
+    box-shadow: 0px 12px 26px rgba(16, 30, 115, 0.06);
+    border-radius: 8px;
+    margin: 30px 0;
+    padding: 24px 0 6px;
+}
+
+#appoint_h {
+    padding-left: 24px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.2px;
+    color: #25282B;
+    margin: 0;
+    margin-bottom: 18px;
+}
+
+#head_text {
+    padding-left: 24px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.1px;
+    color: #25282B;
+}
+
+#appoint_head {
+    display: flex;
+    height: 56px;
+    width: 100%;
+    background: #e8e8e879;
+    align-items: center;
+}
+
+.name {
+    width: 20%;
+}
+
+.email {
+    width: 18%;
+}
+
+.date {
+    width: 10%;
+}
+
+.visit {
+    width: 10%;
+}
+
+.doctor {
+    width: 12%;
+}
+
+.conditions {
+    width: 12%;
+}

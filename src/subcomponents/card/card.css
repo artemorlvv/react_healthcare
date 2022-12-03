@@ -1,0 +1,35 @@
+#card {
+    padding: 20px 24px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 12px 26px 0px #101E730F;
+    border-radius: 8px;
+    flex-grow: 1;
+    background: white;
+}
+
+#card_img {
+    margin-right: 24px;
+}
+
+#card_h {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.1px;
+    color: #25282B;
+    margin-bottom: 4px;
+}
+
+#card_text {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    color: #336CFB;
+
+}

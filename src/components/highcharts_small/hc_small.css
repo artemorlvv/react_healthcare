@@ -1,0 +1,11 @@
+#hc_small {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 38px;
+    width: 100%;
+}
+
+#hc {
+    width: 100%;
+}
